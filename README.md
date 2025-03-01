@@ -1,7 +1,7 @@
 # <div align="center"> Hi, I'm Jaz</div>
 
 
-I have spent three years community organising and volunteering with land projects. I began developing my skill set as a software developer to enhance the community work that I was doing. I'm interested in providing people focused tech solutions and excited to collaborate on large scale projects that focus on social and environmental issues. 
+Full Stack Software developer with a background in community organising. This experience harnessed my natural ability to effectively develop working relationships in order to plan and problem-solve in a team. I'm Driven to collaborate on projects that deliver tech based solutions targeting social and environmental issues. 
 
 ## Tech stack
 <div align="center">
