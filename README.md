@@ -1,7 +1,7 @@
 # <div align="center"> Hi, I'm Jaz</div>
 
 
-Full Stack Software developer with a background in community organising. This experience harnessed my natural ability to effectively develop working relationships in order to plan and problem-solve in a team. I'm Driven to collaborate on projects that deliver tech based solutions targeting social and environmental issues. 
+Full Stack Software developer with a background in community organising. This harnessed my natural ability to develop working relationships to plan and problem-solve in a team. Driven to collaborate on projects that deliver tech based solutions targeting social and environmental issues. 
 
 ## Tech stack
 <div align="center">
