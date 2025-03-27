@@ -16,10 +16,8 @@ Full Stack Software developer with a background in community organising. This ha
 
 🌱 I am currently working on:
   - an app that generates a users described character using AI
-  - a weather app I built using React
+  - a typewriter tool for a text-based adventure game
   - a bit of generative art on the side for fun!
 <br/>
-📚 I am currently learning Express <br/>
-👀 I'm seeking guidance with Express <br/>
-🤝 I'm looking to collaborate on projects with a focus on environmental and social issues <br/> 
+📚 I am currently learning Svelte - and very excited about it! <br/>
 📖 Favourtie read: Three Body Problem 
